@@ -7,7 +7,7 @@ This portfolio showcases my projects, skills, certifications, and journey as a C
 
 ## 🌐 Live Website
 
-🔗 https://subhadipmondal99.github.io/portfolio/
+🔗 https://subhadip-mondal-portfolio.vercel.app/
 
 ---
 
@@ -48,7 +48,7 @@ The website is designed with a modern UI, responsive layout, smooth animations, 
 
 ## 📸 Preview
 
-![Portfolio Screenshot](ss.jpg)
+![Portfolio Screenshot](ss.png)
 
 ---
 
