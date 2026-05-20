@@ -1,2 +1,74 @@
-# portfolio
-Portfolio repository for Subhadip Mondal, a 2nd-year B.Tech CSE student at B.B.I.T. Features live web projects, technical skills in Python, Firebase, and AWS, and a showcase of my journey in software development.
+# 🚀 Subhadip Mondal Portfolio
+
+Welcome to my personal portfolio website repository.  
+This portfolio showcases my projects, skills, certifications, and journey as a Computer Science Engineering student.
+
+---
+
+## 🌐 Live Website
+
+🔗 https://subhadipmondal99.github.io/portfolio/
+
+---
+
+## ✨ About The Portfolio
+
+This portfolio website represents my:
+
+- 💻 Technical Skills
+- 🚀 Projects & Development Work
+- 📜 Certifications
+- 🎓 Academic Journey
+- 🌟 Internship Experience
+
+The website is designed with a modern UI, responsive layout, smooth animations, and interactive sections.
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- AOS Animation Library
+
+---
+
+## 📂 Portfolio Sections
+
+- Home
+- About
+- Skills
+- Projects
+- Certifications
+- Contact
+
+---
+
+## 📸 Preview
+
+![Portfolio Screenshot](ss.jpg)
+
+---
+
+## 👨‍💻 Author
+
+### Subhadip Mondal
+
+- 🎓 B.Tech CSE Student
+- 💡 Interested in Web Development, AI/ML & Cloud Computing
+
+---
+
+## 📬 Connect With Me
+
+- GitHub: https://github.com/subhadipmondal99
+- LinkedIn: https://www.linkedin.com/in/subhadip--mondal/
+
+---
+
+## ⭐ Thank You
+
+Thank you for visiting my portfolio repository.
+```
