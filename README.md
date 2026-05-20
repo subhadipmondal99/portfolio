@@ -70,5 +70,5 @@ The website is designed with a modern UI, responsive layout, smooth animations, 
 
 ## ⭐ Thank You
 
-Thank you for visiting my portfolio repository.
+Thank you for visiting my portfolio repository ❤️.
 ```
